@@ -34,16 +34,10 @@ Distribution of data across multiple nodes
 - Transformation
 - Action
 
-# Business Overview Of Pearson Clientele
-
-- https://pearsonglobal.org/
-- https://developer.eduvos.com/exchanges/data/all/pearson/
-- https://www.bts.dot.gov/topics/davinci/quick-links-popular-air-carrier-statistics
-
  
 # Code Description
-    File Name : pyspark.ipynb , Pearson .ipynb, pyspark.py and Pearson .py
-    DataSets : Pearson 1.csv
+    File Name : pyspark.ipynb , xxx .ipynb, pyspark.py and Pearson .py
+    DataSets : Marketing_Data.csv
     File Description : Implement Transformations and Actions Functions on RDD
     
 ## Steps to Run
@@ -66,7 +60,7 @@ eg. <C:\Users\ericc\admin\Desktop\spark\bin>spark-submit C:\Users\ericc\admin\De
 - Run Code `python Pearson .py`
 - Check output for all the visualization
 ### IPython
-Follow the instructions in the notebook `pyspark.ipynb`
-Follow the instructions in the notebook `Pearson .ipynb`
+Follow the instructions in the notebook `.ipynb`
+Follow the instructions in the notebook ` .ipynb`
 
  
